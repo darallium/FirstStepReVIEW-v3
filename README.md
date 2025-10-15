@@ -43,6 +43,7 @@ $ gem install bundler
 $ git clone https://github.com/TechBooster/FirstStepReVIEW-v3.git
 $ cd FirstStepReVIEW-v3
 $ npm install
+$ bundle install
 $ npm run pdf
 ```
 ## 権利
